@@ -1,6 +1,8 @@
 Chanoh Lim
 Hanyang University Dept. of Philosophy
 
+
+
 🪖 Currently serving military at ROKAF 869th in Seoul Airbase
 
 🔭 I’m currently working on new Startup after military
@@ -9,7 +11,9 @@ Hanyang University Dept. of Philosophy
 
 🏀 I love Basketball - currently on the road for my first dunk
 
-+ 🏃‍♂️Running(working on full marathon) & 🏋️‍♀️Weightlifiting(SBD: 150 100 180)
+🏃‍♂️Running(working on full marathon) & 🏋️‍♀️Weightlifiting(SBD: 150 100 180)
+
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=heechanny)](https://solved.ac/heechanny)
 
